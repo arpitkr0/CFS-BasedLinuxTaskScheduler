@@ -142,8 +142,4 @@ Through this project, I gained practical experience with:
 - Interactive scheduler visualization
 - Performance benchmarking across workloads
 
----
 
-## License
-
-This project is intended for educational and learning purposes.
